@@ -1,1 +1,5 @@
 theme: jekyll-theme-midnight
+title: GitHub Pages チュートリアル
+description: 自己紹介  周南　太郎
+github:
+  is_project_page: false
